@@ -1,0 +1,7 @@
+Nessa pasta de inicio vai ser trabalhado alguns conceitos importantes:
+1- sentença de codigo (tema fundamental para qualquer linguagem de programação)
+2- Bloco de codigo
+
+programas de computador são organizdos aparti de pastas e arquivos e dentro deles tem sentença de codigo e Bloco de codigo.
+
+Bloco de codigo é um agrupamento de sentença de codigo.

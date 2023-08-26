@@ -1,0 +1,70 @@
+Os fundamentos do JavaScript são os conceitos básicos e essenciais que você 
+precisa compreender para começar a programar de forma eficaz nessa linguagem. 
+Aqui estão alguns dos principais fundamentos do JavaScript:
+
+Variáveis e Tipos de Dados: 
+Aprenda como declarar variáveis usando var, let e const, e entenda os 
+diferentes tipos de dados, como números, strings, booleanos, arrays e objetos.
+
+Operadores: 
+Familiarize-se com os operadores aritméticos (+, -, *, /), 
+operadores de atribuição (=, +=, -=), operadores de comparação (==, ===, !=, !==), 
+operadores lógicos (&&, ||, !) e outros operadores utilizados para manipulação de dados.
+
+Estruturas de Controle: 
+Aprenda a usar condicionais (if, else if, else) para tomar decisões baseadas em condições.
+ Além disso, compreenda como usar loops (for, while) para criar iterações.
+
+Funções: 
+Entenda como definir e invocar funções, passar argumentos para funções e retornar valores de funções.
+ Funções são blocos de código reutilizáveis que ajudam a organizar seu código.
+
+Escopo e Closures: 
+Compreenda os conceitos de escopo global e local, bem como closures,
+ que permitem que funções mantenham acesso a variáveis de seus escopos externos.
+
+Arrays e Objetos: 
+Saiba como criar e manipular arrays (listas ordenadas) e 
+objetos (coleções de pares chave-valor) para armazenar e organizar dados.
+
+Manipulação de Strings: 
+Aprenda a trabalhar com strings, 
+concatenando-as, dividindo-as e aplicando métodos para transformações.
+
+Eventos e Manipulação do DOM: 
+Entenda como lidar com eventos do navegador, como cliques e envios de formulários,
+ e como manipular a estrutura do Document Object Model (DOM) para interagir com elementos HTML.
+
+Promises e Async/Await: 
+Conheça os conceitos de programação assíncrona usando Promises e Async/Await,
+ essenciais para lidar com operações demoradas, como chamadas de API.
+
+Tratamento de Erros: 
+Aprenda a lidar com exceções e erros usando blocos try...catch, 
+garantindo que seu código seja robusto e possa lidar com situações inesperadas.
+
+Módulos e Importações: 
+Compreenda como modularizar seu código usando módulos e como importar/exportar funcionalidades entre diferentes partes do seu projeto.
+
+Manipulação de Array Avançada: 
+Explore métodos avançados de manipulação de arrays, como map, filter, reduce e forEach.
+
+Programação Orientada a Objetos (POO): 
+Aprenda a criar e usar classes e objetos em JavaScript para criar uma abordagem mais orientada a objetos.
+
+Manipulação de Tempo: 
+Explore a manipulação de datas e horas, usando objetos como Date e a API setTimeout/setInterval.
+
+APIs do Navegador: 
+Familiarize-se com APIs fornecidas pelo navegador, como a API de Geolocalização e a API de Armazenamento Local, para adicionar funcionalidades aos seus projetos web.
+
+Dominar esses fundamentos é essencial para construir uma base sólida em JavaScript e progredir para tópicos mais avançados.
+
+
+basico de var let e const
+tipos em JavaScrip: number
+usando Math 
+tipos em JavaScrip: string
+tipos em JavaScrip: boolean
+tipos em JavaScrip: Array
+tipos em JavaScrip: Object
